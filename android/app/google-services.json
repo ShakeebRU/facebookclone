@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782441562287",
+    "project_id": "facebookclone-79d24",
+    "storage_bucket": "facebookclone-79d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782441562287:android:5414ea87fbfcd98c4fd45a",
+        "android_client_info": {
+          "package_name": "com.example.facebookclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782441562287-8ju95uoqduimnm64kb0vh6cmeevvmsjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7VvQADnNQekCxj2cxW_iV-Lm-g5aUwtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782441562287-8ju95uoqduimnm64kb0vh6cmeevvmsjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
